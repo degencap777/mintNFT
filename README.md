@@ -1,2 +1,3 @@
-# NFT-mint
-Staking and NFT mint contract
+## Staking and NFT mint contracts
+
+Staking Contract and NFT Mint platform
